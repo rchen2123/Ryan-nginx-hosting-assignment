@@ -1,0 +1,27 @@
+.cover-container {
+  max-width: 60vw;
+}
+
+.zoomImage_tech {
+  width: 100%;
+  height: 0;
+  padding-bottom: 35%;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.zoomImage_edu {
+  width: 100%;
+  height: 0;
+  padding-bottom: 50%;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
